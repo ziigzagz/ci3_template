@@ -45,4 +45,8 @@ class User extends CI_Model
         }
         return $query->result();
     }
+	public function get_data(){
+		$query = $this->db->query("SELECT * FROM A_STOCK_USER");
+		return $query->result();
+	}
 }
