@@ -17,6 +17,7 @@
     "highcharts": "^10.3.3",
     "jquery": "^3.7.0",
     "jszip": "^3.10.1",
+    "mdb-cli": "^4.3.0",
     "moment": "^2.29.4",
     "pdfmake": "^0.2.7",
     "sugar": "^2.0.6",

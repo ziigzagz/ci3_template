@@ -14,11 +14,10 @@ class TestAPI extends CI_Controller
     public function get_data()
     {
 		$data = array();
-		for ($i=0; $i < 10000; $i++) { 
-			# code...
+
 			$data[] = $_REQUEST['username'];
 			$data[] = $_REQUEST['password'];
-		}
+		
 
 		$this->output
 		->set_content_type('application/json')

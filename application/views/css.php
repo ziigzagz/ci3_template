@@ -15,3 +15,4 @@
 <link rel="stylesheet" href="<?php echo base_url()?>node_modules\highcharts\css\highcharts.css">
 <link rel="stylesheet" href="<?php echo base_url()?>node_modules\@fortawesome\fontawesome-free\css\all.css">
 <link rel="stylesheet" href="<?php echo base_url()?>assets\style.css">
+<link rel="stylesheet" href="<?php echo base_url()?>static\libs\mdb\css\mdb.min.css">
